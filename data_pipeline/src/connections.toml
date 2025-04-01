@@ -1,0 +1,10 @@
+# Connection parameters
+
+[default]  
+account = "snowflake account name"
+user = "user id"
+password = "password"
+role = "sysadmin"
+warehouse = "development"
+database = "snf_ev_data_demo"
+schema = "ev_population_data"
