@@ -2,7 +2,7 @@
 
 This is a sample implementation of data processing pipeline for ingestion and processing of a JSON format sample dataset (ElectricVehiclePopulationData.json) using in Snowflake using Snowflake Snowpark APIs. n this data pipeline, it is assumed that the source data file is in an Azure Blob storage.
 
-Architecture
+# Architecture
 
 <img src=https://github.com/reacharnab330/EVPopulation-Snowflake/blob/main/solution_arch_snf.PNG>
 
