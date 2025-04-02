@@ -4,7 +4,7 @@ This is a sample implementation of data processing pipeline for ingestion and pr
 
 Architecture
 
-<img src=https://github.com/reacharnab330/EVPopulation-AzureDatabricks/blob/main/solution_arch_adb.PNG>
+<img src=https://github.com/reacharnab330/EVPopulation-Snowflake/blob/main/solution_arch_snf.PNG>
 
 # Project Overview
 
