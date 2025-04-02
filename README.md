@@ -8,7 +8,7 @@ Architecture
 
 # Project Overview
 
-The project has only one component :
+The project has only one functional flow :
 1. Ingestion , processing along with data quality check implementation of sample JSON format data file ElectricVehiclePopulationData.json from Azure blob storage
 
 # Data Model
