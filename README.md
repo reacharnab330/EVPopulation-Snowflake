@@ -25,6 +25,6 @@ Folloiwng the multilayer datalake architecture the following datasets are create
 2. In vscode navigate to the location where the repo was cloned data_pipeline/src
 3. Create a Virtual Environment in vscode 
 4. Install the required dependencies :
-   pip install snowflake-snowpark-python
-   pip install "snowflake-snowpark-python[pandas]"
-5. run main.py
+   a. pip install snowflake-snowpark-python
+   b. pip install "snowflake-snowpark-python[pandas]"
+6. run main.py
